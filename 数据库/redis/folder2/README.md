@@ -1,0 +1,3 @@
+# redis
+
+source: `{{ page.path }}`
