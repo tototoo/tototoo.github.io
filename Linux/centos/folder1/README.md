@@ -1,8 +1,5 @@
----
-sort: 1
----
 
-	# centos
+	# 目录1
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}

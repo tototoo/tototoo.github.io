@@ -1,8 +1,5 @@
----
-sort: 1
----
 
-# Linux
+# fedora
 
 ```
 {% raw %}this is linux{% endraw %}
