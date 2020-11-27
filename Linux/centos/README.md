@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# centos
+	# centos
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
