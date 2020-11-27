@@ -5,7 +5,7 @@ sort: 2
 # Python
 
 ```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
+{% raw %}this is python{% endraw %}
 ```
 
 {% include list.liquid all=true %}

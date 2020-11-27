@@ -5,7 +5,7 @@ sort: 1
 # Linux
 
 ```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
+{% raw %}this is linux{% endraw %}
 ```
 
 {% include list.liquid all=true %}

@@ -4,7 +4,7 @@ sort: 3
 # 数据库
 
 ```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
+{% raw %}this is database{% endraw %}
 ```
 
 {% include list.liquid all=true %}
