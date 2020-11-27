@@ -1,3 +1,3 @@
-# mysql来了
+# mysql
 
 source: `{{ page.path }}`
